@@ -1,0 +1,7 @@
+Prize Title,Prize Type,Coupon Code,Description,Chance (%),Stock/Count,Is Winning,Active
+Smart Watch,Physical Product,,Win a smart watch! Our team will contact you to arrange delivery.,2,10,Yes,Yes
+Laptop,Physical Product,,Win a laptop! Our team will contact you to arrange delivery.,1,15,Yes,Yes
+20% Off Coupon,Common Coupon,20OFF,Use this code at checkout for 20% off your order.,5,,Yes,Yes
+15% Off Coupon,Common Coupon,15OFF,Use this code at checkout for 15% off your order.,15,,Yes,Yes
+10% Off Coupon,Common Coupon,10OFF,Use this code at checkout for 10% off your order.,27,,Yes,Yes
+No Prize,No Prize,,Better luck next time!,50,,No,Yes
